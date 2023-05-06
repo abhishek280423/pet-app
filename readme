@@ -11,3 +11,9 @@
    11  apt install jenkins -y
    12  systemctl status jenkins
    13  history
+
+
+ps -ef|grep jenkins
+
+netstat -tunlp
+tcp6       0      0 :::8080                 :::*                    LISTEN      4358/java           
