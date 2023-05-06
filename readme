@@ -1,4 +1,6 @@
-    1  javac
+Jenkins instrallation steps:
+
+1  javac
     2  apt install openjdk-11-jdk-headless -y
     3  apt update
     4  apt install openjdk-11-jdk-headless -y
